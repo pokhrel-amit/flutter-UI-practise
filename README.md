@@ -1,3 +1,3 @@
-[doctor2.webm](https://user-images.githubusercontent.com/95612215/187994946-b8ab88b1-accc-42f0-aa77-b3c2b8952e4c.webm)
+![dcotor](https://user-images.githubusercontent.com/95612215/187995217-cdf03924-4057-4ff9-9844-36596c20da39.gif)
 # flutter-ui-practise
 learning to convert various  Ui/Ux designs to code. 
