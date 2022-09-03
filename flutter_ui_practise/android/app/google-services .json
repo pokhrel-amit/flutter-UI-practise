@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190844926718",
+    "project_id": "fir-ui-practise",
+    "storage_bucket": "fir-ui-practise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190844926718:android:15fb5b48751397f6be03af",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ui_practise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190844926718-4ark0ev4hjoqcr86fer042o3u7vd5u57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_ui_practise",
+            "certificate_hash": "a7b32f049048408f76e8f0e34b2cd05295070b54"
+          }
+        },
+        {
+          "client_id": "190844926718-44k0mrnrao84rnm3tcqm6oks60206det.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXgzSGY-gLp3dzZpdSM6WRqhyfnDuo2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190844926718-44k0mrnrao84rnm3tcqm6oks60206det.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
